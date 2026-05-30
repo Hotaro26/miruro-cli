@@ -31,3 +31,6 @@ Run the script and follow the on-screen prompts:
 ```bash
 python main.py
 ```
+
+## Screenshots
+<img width="1129" height="1072" alt="image" src="https://github.com/user-attachments/assets/83e9b49a-baac-41e1-a80e-fa408d0c0ba5" />
